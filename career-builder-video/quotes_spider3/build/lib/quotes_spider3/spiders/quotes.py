@@ -21,8 +21,3 @@ class QuotesSpider(Spider):
                 'Author': author,
                 'Tags': tags
             }
-
-# in terminal
-#
-# shub login
-# shub deploy
